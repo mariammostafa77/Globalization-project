@@ -1,0 +1,120 @@
+.body{
+    background-color: gainsboro;
+     margin: 0px;
+
+}
+.v
+{
+    background-color: #2c3e50e6;
+}
+.name{
+    font-style:blique;
+    color:white;
+    size:20;
+    font-family:cursive;
+    font-style: italic;
+    padding: 10px;
+    margin: 10px;
+  
+}
+.name a{
+    color: #fff;
+    text-decoration: unset;
+}
+.n{
+    width :60;
+    height :80;
+    float: right;
+    margin-right: 20px;
+
+}
+h1
+{
+    text-align: center;
+    margin: auto;
+
+}
+.star img
+{
+    width: 20px;
+    height: 20px;
+    margin: auto;
+}
+.contact
+{
+    height: 380px;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: -10px;
+
+}
+input
+{
+    width: 500px;
+    height: 30px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    
+}
+textarea
+{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    resize: none;
+    width: 38%;
+    height: 100px;
+}
+.two
+{
+    width: 50px;
+    height: 40px;
+    background-color: #18bc9c;
+    color: white;
+    border-bottom-color: white;
+    border-radius:5px; 
+    margin-right: 450px;
+}
+.footer
+{
+    width: 97.77%;
+    background-color: #2c3e50;
+    color: white;
+    margin: auto;
+    display: inline-flex;
+    padding: 10px 15px;
+}
+.foot
+{
+    width: 300;
+    color: white;
+    text-align: center;
+    padding: 0px 15px;
+    font-family: Calibri (Body);
+    margin: auto;
+}
+.foot img
+{
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    display: flex;
+    float: left;
+    margin: auto 5px;
+}
+.foott
+{
+    background-color: 1a252f;
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
+    font-family: Calibri (Body);
+
+}
+.footimg
+{
+    margin: auto;
+    display: table;
+}
